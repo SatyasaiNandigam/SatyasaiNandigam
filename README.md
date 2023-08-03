@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## About Me 🧑🏻‍💼
 
-- 🙂 I am Satya, working as Software Developer Intern at Scketch.
-- 💻 I'm a full stack MERN developer.
-- 🎓 I'm currently pursuing B.Tech(CSE) from Adikavi Nannaya University, Rajahmundry.
-- 🌱 I'm currently learning NextJs and Strapi.
+- 🙂 I am Satya, working as Software Engineer at Scketch.
+- 💻 I'm specialised in MERN Stack Development and Data Science.
+- 🎓 I'm completed my B.Tech(CSE) from Adikavi Nannaya University, Rajahmundry.
+- 🌱 I'm currently learning Power BI and Machine Learning methodologies.
 - 👯 I'm looking to collaborate on open source web development projects.
 
 ## Languages 🔡
