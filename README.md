@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ## About Me 🧑🏻‍💼
 
-- 🙂 I am Satya, working as Software Engineer at Scketch.
+- 🙂 I am Satya, working as Software Engineer at Altumind.
 - 💻 I'm specialised in MERN Stack Development and Data Science.
 - 🎓 I'm completed my B.Tech(CSE) from Adikavi Nannaya University, Rajahmundry.
-- 🌱 I'm currently learning Power BI and Machine Learning methodologies.
-- 👯 I'm looking to collaborate on open source web development projects.
+- 🌱 I'm currently working on Generative AI and Agentic AI systems creation.
+- 👯 I'm looking to collaborate on open source web development and AI projects.
 
 ## Languages 🔡
 
